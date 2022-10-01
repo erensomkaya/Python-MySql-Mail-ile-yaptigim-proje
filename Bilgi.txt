@@ -1,0 +1,2 @@
+Bu işlem sadece disk içindir. 
+İsterseniz cpu-ram kodlarını disk kodlarının yerine yazarsınız o bilgileride çalıştırabilirsiniz.
